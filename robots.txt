@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://drankystudio.com/sitemap.xml
+Sitemap: https://drankyseo.netlify.app/sitemap.xml
